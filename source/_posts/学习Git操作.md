@@ -28,6 +28,14 @@ I'm learning git now!
 
 `git clone "远程仓库地址"`  将远程仓库克隆到当前文件夹
 
+## 一键上传
+
+git add .
+
+git commit -m 'revise blog'
+
+git push origin main
+
 ## 遇到的坑
 
 ### 1.	VPN 引发的问题
