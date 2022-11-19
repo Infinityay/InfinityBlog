@@ -5,3 +5,5 @@ tags:
 ---
 
 Hello, Hexo!
+
+I'm learning git now!
