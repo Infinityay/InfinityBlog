@@ -24,6 +24,16 @@ I'm learning git now!
 
 `git push origin main`  推送当地git库到github
 
-`git remote -v`  查看远程库的信息
+`git remote -v`  查看当前本地库关联的远程库信息
 
 `git clone "远程仓库地址"`  将远程仓库克隆到当前文件夹
+
+## 遇到的坑
+
+### 1.	VPN 引发的问题
+
+`kex_exchange_identification: Connection closed by remote host Connection closed by 127.0.0.1 port 22 fatal: Could not read from remote repository.`  
+
+解决方法：
+
+**关掉 VPN**
