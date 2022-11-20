@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-quiet"]
+	path = themes/hexo-theme-quiet
+	url = git@github.com:79E/hexo-theme-quiet.git
