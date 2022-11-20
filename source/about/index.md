@@ -1,22 +1,36 @@
 ---
-title: 个人简介
+title: 关于本站
 date: 2022-11-20
+tags: 博客
+mathjax: false
 aubot: infinity
-portrait: 
 describe: '人生有意义'
 type: "about"
 layout: "about"
 comments: false
 ---
 
-## 欢迎来到我的博客
+## Who am I :boy:
 
-写博客是为了记录
+一名不知道方向的，喜欢瞎折腾的学生。
 
-## 我是谁
+## Technology :ledger:
 
-0.0
+建站： **Hexo** 
 
-## 本站规划
+托管： **Netlify** 
 
-0.0
+主题： **Next**
+
+##  Future :rocket:
+
+- [x]  支持图片
+- [x]  支持 latex 公式渲染
+- [ ] 支持搜索
+- [ ] ..........
+
+
+
+##  Refference :paw_prints:
+
+[(148条消息) hexo博客next主题添加对数学公式的支持_阳光洒在杨树上的博客-CSDN博客](https://blog.csdn.net/weixin_45511189/article/details/115798563?spm=1001.2101.3001.6650.17&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-17-115798563-blog-82526604.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-17-115798563-blog-82526604.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=18)
