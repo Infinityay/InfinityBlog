@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: InfinityDay
+title: Infinity
 subtitle: ''
-description: ''
-keywords:
-author: yh
-language: en
-timezone: ''
+description: '人生有意义'
+keywords: learn, live and love  
+author: YhV
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -33,6 +33,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
+auto_spacing: true
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
@@ -62,7 +63,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 9
+  per_page: 5
   order_by: -date
 
 
@@ -87,7 +88,7 @@ updated_option: 'mtime'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 9
+per_page: 5
 pagination_dir: page
 
 # Include / Exclude file(s)
