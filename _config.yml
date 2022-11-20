@@ -65,8 +65,7 @@ index_generator:
   per_page: 9
   order_by: -date
 
-# 首页文章布局 默认 'card' 可选择 'block-card'
-home_layout: card
+
 # Category & Tag
 
 default_category: uncategorized
@@ -100,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Quiet
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
