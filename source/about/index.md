@@ -24,12 +24,19 @@ comments: false
 
 ##  Future :rocket:
 
-- [x]  支持图片
-- [x]  支持 latex 公式渲染
+- [x] 支持图片
+- [x] 支持 latex 公式渲染
 - [ ] 支持搜索
+- [ ] 支持 typora or markdown 表情（emoji）渲染
+- [ ] 支持 todolist 显示 
+- [ ] 支持显示已查看人数
+- [ ] 支持评论
+- [ ] 
 - [ ] ..........
 
+## Bug
 
+- [ ] **移动端** 有 latex 公式的文章显示问题
 
 ##  Refference :paw_prints:
 

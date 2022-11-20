@@ -38,6 +38,14 @@ git commit -m 'revise blog'
 
 git push origin main
 
+## 本地调试Hexo (和 Git 无关)
+
+`hexo clean` 
+
+`hexo g`
+
+`hexo s`
+
 ## 遇到的坑
 
 ### 1.	VPN 引发的问题
