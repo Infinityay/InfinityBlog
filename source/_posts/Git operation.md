@@ -1,7 +1,7 @@
 ---
 title: Git操作
 date: 2022-11-19 19:26:11
-update: 2022-11-20 10:30:33
+updated: 2022-11-20 10:30:33
 tags: git
 description: 学习Git的一些常用操作
 mathjax: false
