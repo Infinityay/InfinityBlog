@@ -34,11 +34,15 @@ comments: false
 - [ ] 
 - [ ] ..........
 
-## Bug
+## Bug Record
+
+- [ ] 每次上传新文章时，会更新所有文章的更改时间。
 
 - [ ] **移动端** 有 latex 公式的文章显示问题
 
   暂时想到的**修改方法** 更换 latex 渲染器?
+  
+  
 
 ##  Refference :paw_prints:
 
