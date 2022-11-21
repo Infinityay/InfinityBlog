@@ -1,13 +1,11 @@
 ---
 title: 关于本站
-date: 2022-11-20
+date: 2022-11-20 20:03:03
+updated: 2022-11-21 21:23:33
 tags: 博客
 mathjax: false
-aubot: infinity
 describe: '人生有意义'
-type: "about"
-layout: "about"
-comments: false
+categories: 
 ---
 
 ## Who am I :boy:
